@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(152, 167, 250);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+}
+.header{
+    background-color: rgb(15, 59, 190);
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+.main{
+    padding: 20px;
+    background-color: whitesmoke;
+    color: rgb(15, 59, 190);
+}
+.footer{
+    background-color: rgb(152, 167, 250);
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+.highlight {
+    color: rgb(15, 59, 190);
+    font-weight: bold;
+    font-style: italic;
+}
+.center{
+    text-align: center;
+}
+.video{
+    text-align: center;
+}
+.img{
+    text-align: center;
+}
